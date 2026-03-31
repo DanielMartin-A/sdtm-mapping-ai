@@ -1,9 +1,5 @@
 Topics: clinical-trials, cdisc, sdtm, machine-learning, llm, healthcare-ai
 
-README.md Content:
-
-Markdown
-
 # SDTM Mapping AI (sdtm-mapping-ai)
 
 > **⚠️ INDEPENDENCE & DATA DISCLAIMER:** This reference implementation uses exclusively publicly available data (CDISC Pilot 01). It does not reflect, derive from, or use any proprietary systems, workflows, data, or trade secrets of any current or past employers. This work is an independent academic and open-source contribution.
