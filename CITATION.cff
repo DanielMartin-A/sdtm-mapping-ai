@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "SDTM Mapping AI: AI-Powered SDTM Domain Prediction and Variable Mapping"
+version: 0.2.0
+date-released: 2026-03-31
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/sdtm-mapping-ai"
+authors:
+  - family-names: Arogyasami
+    given-names: DanielMartin
+keywords:
+  - SDTM
+  - CDISC
+  - clinical trials
+  - artificial intelligence
+  - large language models
+  - retrieval-augmented generation
+references:
+  - type: article
+    title: "Automating SDTM Mapping with Artificial Intelligence and Large Language Models: A Narrative Review"
+    authors:
+      - family-names: Arogyasami
+        given-names: DanielMartin
+    year: 2026
+    notes: "Preprint — companion paper"
